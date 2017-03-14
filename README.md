@@ -1,2 +1,2 @@
-# Android-Programming-Specification
+# Android Programming Specification
 参照网络上已有的Java编码规范和Android开发规范，并结合自身经验编写的Android编码规范。
