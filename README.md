@@ -5,3 +5,6 @@
 
 ## 说明
 此规范会持续更新，如果有幸被你看到，欢迎补充和指出不当之处！
+
+## 参考&感谢
+* 阿里巴巴开源Java编码规范（https://yq.aliyun.com/attachment/download/?id=1200）
